@@ -1,0 +1,22 @@
+# ninja log v5
+22	212	6875501952813359	CMakeFiles/BasicAlgorithms.dir/InsertionSort.cpp.obj	63d300fc3c0c67fa
+3	60	6890242939053526	CMakeFiles/BasicAlgorithms.dir/BinarySearch.cpp.obj	8fae46fcbc48c760
+4	69	7001545971937306	CMakeFiles/BasicAlgorithms.dir/RLE_encode.cpp.obj	782a01278800e665
+64	266	6875501953371889	CMakeFiles/BasicAlgorithms.dir/QuickSort.cpp.obj	e136d333c3e84d08
+5	123	6890335610864423	CMakeFiles/BasicAlgorithms.dir/CountSortStavbleNegative.cpp.obj	6f1049f08712c3f8
+0	273	6875501953411768	CMakeFiles/BasicAlgorithms.dir/BubbleSort.cpp.obj	554366c939411e8c
+698	853	7001546286155209	BasicAlgorithms.exe	ad6ad9664c2498c7
+12	274	6875501953451661	CMakeFiles/BasicAlgorithms.dir/MergeSort.cpp.obj	9beff325e5acdc97
+12	232	6890242882248551	CMakeFiles/BasicAlgorithms.dir/Queue.cpp.obj	e0d57a07bb7ca68f
+5	230	6890242882228596	CMakeFiles/BasicAlgorithms.dir/Stack.cpp.obj	351c5d9a6a7f06e8
+7	76	6890258524364588	CMakeFiles/BasicAlgorithms.dir/CounterSort.cpp.obj	362465d6a6d34584
+8	71	6890282513765891	CMakeFiles/BasicAlgorithms.dir/CountSortNegative.cpp.obj	6b0791d26c8e747e
+12	82	6890299061776568	CMakeFiles/BasicAlgorithms.dir/CountSortStable.cpp.obj	b492b76c1824ca51
+4	59	6898886191376663	CMakeFiles/BasicAlgorithms.dir/RadixSortLSD.cpp.obj	ef4d50c4b54f7d30
+7	132	6908391071240888	CMakeFiles/BasicAlgorithms.dir/HeapSort.cpp.obj	dabe641fb8d43ee7
+26	189	6926656098832317	CMakeFiles/BasicAlgorithms.dir/BinaryTree.cpp.obj	44f9cd7e1d6ce70c
+4	65	6980833412423942	CMakeFiles/BasicAlgorithms.dir/AVL.cpp.obj	58595f2bbe49536d
+5	697	7001546284643996	CMakeFiles/BasicAlgorithms.dir/BFS.cpp.obj	be009d04a779b191
+4	88	7001553007492342	CMakeFiles/BasicAlgorithms.dir/BFS.cpp.obj	be009d04a779b191
+9	560	7001553012200272	CMakeFiles/BasicAlgorithms.dir/DFS.cpp.obj	748da6e72222be9a
+560	748	7001553013880848	BasicAlgorithms.exe	8f756d01391178bc

@@ -1,0 +1,3 @@
+C:/LabsCpp/BasicAlgorithms/cmake-build-debug/CMakeFiles/BasicAlgorithms.dir
+C:/LabsCpp/BasicAlgorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/LabsCpp/BasicAlgorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
